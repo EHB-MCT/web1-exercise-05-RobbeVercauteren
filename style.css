@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.page {
+    width: 940px;
+    height: 1200px;
+
+
+    /* centreren van div */
+    margin: 0 auto 0 auto;
+}
+
+.featured {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.whoiswho {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.foto {
+    position: relative;
+    float: left;
+}
+
+.wonderwoman {
+    margin-left: 20px;
+}
+
+h1 {
+    color: rgb(20, 123, 235);
+}
